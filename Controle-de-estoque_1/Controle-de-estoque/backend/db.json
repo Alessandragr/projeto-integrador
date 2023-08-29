@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "name": "Acetaldeído, frasco de 1 L",
+      "price": "150",
+      "id": 2
+    },
+    {
+      "name": "Acetato de chumbo, frasco de 250 g",
+      "price": "140",
+      "id": 3
+    },
+    {
+      "name": "Acetato de sódio, frasco de 1 Kg",
+      "price": "130",
+      "id": 4
+    },
+    {
+      "name": "Ácido nítrico, frasco de 1 L",
+      "price": "120",
+      "id": 5
+    },
+    {
+      "name": "Ácido Oxálico, frasco 500 g",
+      "price": "110",
+      "id": 6
+    },
+    {
+      "name": "Ácido Pícrico, frasco de 250 g",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "name": "Ácido Sulfúrico, frasco de 1 L",
+      "price": "95",
+      "id": 8
+    },
+    {
+      "name": "Ácido Tânico, frasco com 500 g",
+      "price": "90",
+      "id": 9
+    },
+    {
+      "name": "Ácido Tricloroacético, frasco de 100 g",
+      "price": "85",
+      "id": 10
+    },
+    {
+      "name": "Alanina, frasco de 500 g",
+      "price": "80",
+      "id": 11
+    },
+    {
+      "name": "Álcool Butílico, frasco de 1 L",
+      "price": "75",
+      "id": 12
+    },
+    {
+      "name": "Álcool etílico (Etanol) absoluto P.A. (mínimo 99,8%), frasco com 1 L",
+      "price": "70",
+      "id": 13
+    },
+    {
+      "name": "Aldeído Salicílico P.A. Mín 98%",
+      "price": "65",
+      "id": 14
+    },
+    {
+      "name": "Álcoole Etílico teor alcoólico 95,1 a 96¨GL",
+      "price": "60",
+      "id": 15
+    },
+    {
+      "name": "Álcool metílico (Metanol) absoluto P.A (mínimo 99,8%) frasco com 1 L",
+      "price": "55",
+      "id": 16
+    },
+    {
+      "name": "Álcool Propílico, frasco de 1 L",
+      "price": "50",
+      "id": 17
+    },
+    {
+      "name": "Alumínio Metálico, frasco de 250 g",
+      "price": "45",
+      "id": 18
+    },
+    {
+      "name": "Anidrido ftálico, 99.0% frasco 500 g",
+      "price": "40",
+      "id": 19
+    },
+    {
+      "name": "Ácido nítrico, frasco de 1 L",
+      "price": "35",
+      "id": 20
+    }
+ ]
+}
